@@ -7,7 +7,6 @@ Um gerenciador de tarefas desenvolvido em react js
 - Clone este repositório ```git clone https://github.com/viniciusdevjesus/Gerenciador-de-Tarefas```
 
 ### Front-end
- - Entre na pasta Gerenciador_de_tarefas
  - Inicie o servidor do React com ```npm run dev```
 
 ### Database
